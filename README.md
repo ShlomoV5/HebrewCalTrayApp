@@ -1,2 +1,1 @@
-# HebrewCalTrayApp
-A repository for a native Windows tray application in C# (.NET) that displays the Hebrew calendar
+This repository is empty. Any task executed on it should be considered a new capability and needs to be created.
